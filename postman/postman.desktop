@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Postman
+Comment=Postman
+Type=Application
+Categories=Application;Development;
+Exec=/opt/Postman/Postman
+Icon=/opt/Postman/resources/app/assets/icon.png
+Terminal=false
+StartupNotify=true
